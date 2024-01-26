@@ -1,76 +1,87 @@
 ---
 # Display name
-title: 吳健雄
+title: Jonathan Daniel Chamberlain
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jonathan Daniel 
+last_name: Chamberlain
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Graduate Research Assistant and PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Boston University Laboratory of Networking and Information Systems (NISLAB)
+    url: https://sites.bu.edu/nislab/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: mailto:me@jonathandchamberlain.net
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=tznM8r4AAAAJ
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0001-7029-2836
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jonathanchamberlain
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/jonathandanielchamberlain/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Engineering
+    institution: Boston University College of Engineering
+    date_start: 2019-09-01
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on allocation of resources in  Supervised by [Prof David Starobinski](https://people.bu.edu/staro/).
+
+      GPA: 3.85/4.00
+      
+      Courses incldued:
+      - Cloud Computing
+      - Advanced Optimization Theory and Methods
+      - IoT Security
+      - Advanced Computer Networks
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: MS Systems Engineering
+    institution: Boston University College of Engineering
+    date_start: 2016-09-01
+    date_end: 2019-05-19
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.63/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Dynamic Systems Theory
+      - Network Security
+      - Computer Communication Networks
+    button:
+      text: 'Read Thesis'
+      url: 'https://open.bu.edu/handle/2144/36027'
+  - area: BA Mathematics
+    institution: Boston Univeristy College of Arts and Sciences
+    date_start: 2008-09-01
+    date_end: 2012-05-20
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.71/4.00
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Honors Microeconomics
+      - Mathematical Modeling in the Life Sciences
+      - Methods of Scientific Computing
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -169,14 +180,19 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I live in San Francisco, designing large language models at OpenAI.
+## I live in the Greater Boston Area, engaging in research on the economics of cloud computing and cognitive radio networks 
 
-I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
+I am a PhD candidate at Boston University where I am working on my thesis related to allocation of network resources, with a focus on the economic impact of user agent behavior in dynamic enviornments on priority assignment and scheduling of jobs.  
 
 My research interests include:
 
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Operations Research
+- Game Theory
+- Queuing Theory
+- Cloud Computing
+- Network Security
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
+My interest in these areas in general, and the economics of communications systems in specific, stems from 
+
+In addition to my published works, during my graduate student career I have been involved with Boston University's Student Association of Graduate Engineers (SAGE) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused University initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the [10th BU CISE Graduate Student Workshop](https://www.bu.edu/cise/cgsw-10-0-agenda/). 
+
