@@ -182,6 +182,8 @@ awards:
 
 ## I live in the Greater Boston Area, engaging in research on the economics of cloud computing and cognitive radio networks 
 
+## This page is currently under construction
+
 I am a PhD candidate at Boston University where I am working on my thesis related to allocation of network resources, with a focus on the economic impact of user agent behavior in dynamic enviornments on priority assignment and scheduling of jobs.  
 
 My research interests include:
