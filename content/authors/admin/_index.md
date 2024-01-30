@@ -94,6 +94,32 @@ work:
       - Developed queuing model for allocation of cloud computing resources where user agents choose from multiple Virtual Machine (VM) types.
       - Analyzed mathematical models for multiple class VM environment where customers prioritize fastest time to completion.
       - Presented results to IBM research team.
+  - position: Business Analyst
+    company_name: Hewlett Packard Enterprise
+    company_url: https://www.hpe.com/
+    company_logo: ''
+    date_start: 2014-01-01
+    date_end: 2016-08-05
+    summary: |2-
+      Responsibilities included:
+      - Elicited requirements for updates to Wisconsin Immunization Registry (WIR) web application.
+      - Engaged in Quality Assurance and functionality testing for WIR application updates.
+      - Documented procedures for testing standardization for barcode vaccine entry and data exchange mass import workflows.
+      - Troubleshooted issues reported by end users, supporting the WIR Help Desk as Level 2 support.
+      - Delivered solutions to user reported issues requiring application updates.
+  - position: Technical Services Analyst, HIM/Identity
+    company_name: Epic Systems Corporation
+    company_url: https://www.epic.com/
+    company_logo: ''
+    date_start: 2012-09-01
+    date_end: 2013-11-15
+    summary: |2-
+      Responsibilities included:
+      - Investigated software issues reported by client IT teams.
+      - Identified solutions to reported issues, arranged for delivery of resolutions requiring software updates.
+      - Facilitated weekly calls with client IT teams to triage open issues list and keep clients informed of open issues investigation.
+      - Developed wrappers for backwards compatibility of Release of Information module print groups in future software releases.
+      - Configured clinician profiles for accessing sensitive patient data to ensure proper access and auditing.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
