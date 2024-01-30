@@ -182,8 +182,6 @@ awards:
 
 ## I live in the Greater Boston Area, engaging in research on the economics of cloud computing and cognitive radio networks 
 
-## This page is currently under construction
-
 I am a PhD candidate at Boston University where I am working on my thesis related to allocation of network resources, with a focus on the economic impact of user agent behavior in dynamic enviornments on priority assignment and scheduling of jobs.  
 
 My research interests include:
@@ -194,6 +192,7 @@ My research interests include:
 - Cloud Computing
 - Network Security
 
-My interest in these areas in general, and the economics of communications systems in specific, stems from 
+My interest in these areas in general, and the economics of communications systems in specific, stems from a desire to leverage resource sharing to improve access to communications networks for all. This especially holds in the internet space, where wireless connectivity is an essential pillar for expansion of high speed internet services.
 
-In addition to my published works, during my graduate student career I have been involved with Boston University's Student Association of Graduate Engineers (SAGE) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused University initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the [10th BU CISE Graduate Student Workshop](https://www.bu.edu/cise/cgsw-10-0-agenda/). 
+In addition to my published works, during my graduate student career I have been involved with Boston University's [Student Association of Graduate Engineers (SAGE)](https://www.bu.edu/sage/) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused University initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the [10th BU CISE Graduate Student Workshop](https://www.bu.edu/cise/cgsw-10-0-agenda/). 
+
