@@ -83,86 +83,70 @@ education:
       - Mathematical Modeling in the Life Sciences
       - Methods of Scientific Computing
 work:
-  - position: Summer Research Intern
-    company_name: IBM TJ Watson Research Center
-    company_url: https://research.ibm.com/labs/yorktown-heights
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: 2020-05-25
-    date_end: 2020-08-14
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
-      - Developed queuing model for allocation of cloud computing resources where user agents choose from multiple Virtual Machine (VM) types.
-      - Analyzed mathematical models for multiple class VM environment where customers prioritize fastest time to completion.
-      - Presented results to IBM research team.
-  - position: Business Analysit
-    company_name: Hewlett Packard Enterprise
-    company_url: https://www.hpe.com/us/en/home.html
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
     company_logo: ''
-    date_start: 2014-01-01
-    date_end: 2016-08-05
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Elicited requirements for updates to Wisconsin Immunization Registry (WIR) web application.
-      - Engaged in Quality Assurance and functionality testing for WIR application updates.
-      - Documented procedures for testing standardization for barcode vaccine entry and data exchange mass import workflows.
-      - Troubleshooted issues reported by end users, supporting the WIR Help Desk as Level 2 support.
-      - Delivered solutions to user reported issues requiring application updates.
-- position: Technical Services Analyst - HIM/Identity
-    company_name: Epic Systems Corporation
-    company_url: https://www.epic.com/
-    company_logo: ''
-    date_start: 2012-09-01
-    date_end: 2013-11-15
-    summary: |
-      Responsibilities include:
-      - Investigated software issues reported by client IT teams.
-      - Identified solutions to reported issues, arranged for delivery of resolutions requiring software updates.
-      - Facilitated weekly calls with client IT teams to triage open issues list and keep clients informed of open issues investigation.
-      - Developed wrappers for backwards compatibility of Release of Information module print groups in future software releases.
-      - Configured clinician profiles for accessing sensitive patient data to ensure proper access and auditing.
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Programming Language Knowledge
-        description: C++, HTML, Javascript, Mathematica, MATLAB, Python, SQL
-        # percent: 80
+      - name: Python
+        description: ''
+        percent: 80
         icon: code-bracket
-      - name: Software Knowledge
-        description: Debian-based Linux, Docker, Kubernetes, Simulink, Taiga, VirtualBox, Windows, Wireshark
-        # percent: 100
+      - name: Data Science
+        description: ''
+        percent: 100
         icon: chart-bar
-      - name: Process Knowledge
-        description: Agile (Scrum), Issue Prioritization, Project Management, QA Testing, Requirements Elicitation, Technical Troubleshooting
-        # percent: 40
+      - name: SQL
+        description: ''
+        percent: 40
         icon: circle-stack
-  # Removing hobbies as superfluous
-  #- name: Hobbies
-  #  color: '#eeac02'
-  # color_border: '#f0bf23'
-  # items:
-  #    - name: Hiking
-  #      description: ''
-  #      percent: 60
-  #      icon: person-simple-walk
-  #    - name: Cats
-  #      description: ''
-  #      percent: 100
-  #      icon: cat
-  #    - name: Photography
-  #      description: ''
-  #      percent: 80
-  #      icon: camera
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
- # Removing languages as inconsistent with other sources
- # languages:
- # - name: English
- #   percent: 100
- # - name: French
- #   percent: 20
-
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -198,6 +182,7 @@ awards:
 
 ## I live in the Greater Boston Area, engaging in research on the economics of cloud computing and cognitive radio networks 
 
+## This page is currently under construction
 
 I am a PhD candidate at Boston University where I am working on my thesis related to allocation of network resources, with a focus on the economic impact of user agent behavior in dynamic enviornments on priority assignment and scheduling of jobs.  
 
@@ -209,7 +194,6 @@ My research interests include:
 - Cloud Computing
 - Network Security
 
-My interest in these areas in general, and the economics of communications systems in specific, stems from a desire to leverage resource sharing to improve access to communications networks for all. This especially holds in the internet space, where wireless connectivity is an essential pillar for expansion of high speed internet services.
+My interest in these areas in general, and the economics of communications systems in specific, stems from 
 
-In addition to my published works, during my graduate student career I have been involved with Boston University's [Student Association of Graduate Engineers (SAGE)](https://www.bu.edu/sage/) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused University initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the [10th BU CISE Graduate Student Workshop](https://www.bu.edu/cise/cgsw-10-0-agenda/). 
-
+In addition to my published works, during my graduate student career I have been involved with Boston University's Student Association of Graduate Engineers (SAGE) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused University initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the [10th BU CISE Graduate Student Workshop](https://www.bu.edu/cise/cgsw-10-0-agenda/). 
