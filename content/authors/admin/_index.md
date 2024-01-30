@@ -153,36 +153,66 @@ skills:
         description: ''
         # percent: 40
         icon: circle-stack
-  - name: Programming Languages
+  - name: Software
     items:
-      - name: C++
+      - name: Debian-based Linux
         description: ''
         # percent: 80
         icon: code-bracket
-      - name: HTML
+      - name: Docker
         description: ''
         # percent: 100
         icon: code-bracket
-      - name: Javascript
+      - name: Kubernetes
         description: ''
         # percent: 100
         icon: code-bracket
-      - name: Mathematica
+      - name: Simulink
         description: ''
         # percent: 100
         icon: code-bracket
-      - name: MATLAB
+      - name: Taiga
         description: ''
         # percent: 100
         icon: code-bracket
-      - name: Python
+      - name: VirtualBox
         description: ''
         # percent: 100
         icon: code-bracket
-      - name: SQL
+      - name: Windows
         description: ''
         # percent: 40
         icon: circle-stack
+      - name: Wireshark
+        description:''
+        # percent: 100
+        icon: code-bracket
+  - name: Processes
+    items:
+      - name: Agile (Scrum)
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Issue Prioritization
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: Project Management
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: QA Testing
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: Requirements Elicitation
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: Technical Troubleshooting
+        description: ''
+        # percent: 100
+        icon: code-bracket
 
 # languages:
 #  - name: English
