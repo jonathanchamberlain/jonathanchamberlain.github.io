@@ -127,27 +127,27 @@ skills:
     items:
       - name: C++
         description: ''
-        # percent: 80
+        percent: 80
         icon: code-bracket
       - name: HTML
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Javascript
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Mathematica
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: MATLAB
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Python
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: SQL
         description: ''
@@ -157,61 +157,61 @@ skills:
       items:
       - name: Debian-based Linux
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Docker
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Kubernetes
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Simulink
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Taiga
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: VirtualBox
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Windows
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Wireshark
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
     - name: Processes
       items:
       - name: Agile (Scrum)
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Issue Prioritization
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Project Mangement
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: QA Testing
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Requirements Elicitation
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
       - name: Technical Troubleshooting
         description: ''
-        # percent: 100
+        percent: 100
         icon: code-bracket
   # - name: Hobbies
   # color: '#eeac02'
