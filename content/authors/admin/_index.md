@@ -153,40 +153,6 @@ skills:
         description: ''
         # percent: 40
         icon: circle-stack
-    - name: Software
-      items:
-        - name: Debian-based Linux
-          description: ''
-          # percent: 100
-          icon: code-bracket
-        - name: Docker
-          description: ''
-          # percent: 100
-          icon: code-bracket
-        - name: Kubernetes
-          description: ''
-          # percent: 100
-          icon: code-bracket
-        - name: Simulink
-          description: ''
-          # percent: 100
-          icon: code-bracket
-        - name: Taiga
-          description: ''
-          # percent: 100
-          icon: code-bracket
-        - name: VirtualBox
-          description: ''
-          # percent: 100
-          icon: code-bracket
-        - name: Windows
-          description: ''
-          # percent: 100
-          icon: code-bracket
-        - name: Wireshark
-          description: ''
-          # percent: 100
-          icon: code-bracket
   # - name: Hobbies
   # color: '#eeac02'
   #  color_border: '#f0bf23'
