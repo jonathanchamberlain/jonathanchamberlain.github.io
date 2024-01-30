@@ -83,6 +83,17 @@ education:
       - Mathematical Modeling in the Life Sciences
       - Methods of Scientific Computing
 work:
+  - position: Summer Reserach Intern
+    company_name: IBM TJ Watson Research Center
+    company_url: https://research.ibm.com/labs/yorktown-heights
+    company_logo: ''
+    date_start: 2020-05-25
+    date_end: 2020-08-14
+    summary: |2-
+      Responsibilities included:
+      - Developed queuing model for allocation of cloud computing resources where user agents choose from multiple Virtual Machine (VM) types.
+      - Analyzed mathematical models for multiple class VM environment where customers prioritize fastest time to completion.
+      - Presented results to IBM research team.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
