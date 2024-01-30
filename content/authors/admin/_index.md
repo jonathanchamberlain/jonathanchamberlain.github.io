@@ -127,31 +127,31 @@ skills:
     items:
       - name: C++
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: HTML
         description: ''
-        percent: 100
+        # percent: 100
         icon: code-bracket
       - name: Javascript
         description: ''
-        percent: 100
+        # percent: 100
         icon: code-bracket
       - name: Mathematica
         description: ''
-        percent: 100
+        # percent: 100
         icon: code-bracket
       - name: MATLAB
         description: ''
-        percent: 100
+        # percent: 100
         icon: code-bracket
       - name: Python
         description: ''
-        percent: 100
+        # percent: 100
         icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
+        # percent: 40
         icon: circle-stack
   # - name: Hobbies
   # color: '#eeac02'
