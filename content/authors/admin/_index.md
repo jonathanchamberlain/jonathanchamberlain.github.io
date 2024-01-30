@@ -153,23 +153,6 @@ skills:
         description: ''
         # percent: 40
         icon: circle-stack
-   
-   - name: Software
-     color: '#eeac02'
-     color_border: '#f0bf23'
-     items:
-       - name: Debian-based Linux
-         description: ''
-         # percent: 60
-         icon: person-simple-walk
-       - name: Docker
-         description: ''
-         # percent: 100
-         icon: cat
-     - name: Kubernetes
-         description: ''
-         # percent: 80
-         icon: camera
 
 # languages:
 #  - name: English
