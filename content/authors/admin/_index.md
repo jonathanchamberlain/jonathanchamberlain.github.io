@@ -107,7 +107,7 @@ work:
       - Documented procedures for testing standardization for barcode vaccine entry and data exchange mass import workflows.
       - Troubleshooted issues reported by end users, supporting the WIR Help Desk as Level 2 support.
       - Delivered solutions to user reported issues requiring application updates.
-- position: Technical Services Analyst - HIM/Identity
+- position: Technical Services Analyst, HIM/Identity
     company_name: Epic Systems Corporation
     company_url: https://www.epic.com/
     company_logo: ''
