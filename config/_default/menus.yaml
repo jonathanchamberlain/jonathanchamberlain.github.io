@@ -10,15 +10,15 @@ main:
   - name: Publications
     url: publication/
     weight: 20
-  #- name: Blog
-  #  url: post/
-  #  weight: 20
   - name: Experience
     url: experience/
     weight: 30
-  - name: Projects
-    url: projects/
-    weight: 40
+  # - name: Projects
+  #  url: projects/
+  #  weight: 40
+  #- name: Blog
+  #  url: post/
+  #  weight: 50
   #- name: Uses
   #  url: uses/
-  #  weight: 50
+  #  weight: 60
