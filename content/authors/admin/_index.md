@@ -85,7 +85,7 @@ education:
 work:
   - position: Summer Research Intern
     company_name: IBM TJ Watson Research Center
-    company_url: https://research.ibm.com/labs/yorktown-heights
+    company_url: 'https://research.ibm.com/labs/yorktown-heights'
     company_logo: ''
     date_start: 2020-05-25
     date_end: 2020-08-14
@@ -96,7 +96,7 @@ work:
       - Presented results to IBM research team.
   - position: Business Analysit
     company_name: Hewlett Packard Enterprise
-    company_url: https://www.hpe.com/us/en/home.html
+    company_url: 'https://www.hpe.com/us/en/home.html'
     company_logo: ''
     date_start: 2014-01-01
     date_end: 2016-08-05
@@ -109,7 +109,7 @@ work:
       - Delivered solutions to user reported issues requiring application updates.
 - position: Technical Services Analyst, HIM/Identity
     company_name: Epic Systems Corporation
-    company_url: https://www.epic.com/
+    company_url: 'https://www.epic.com/'
     company_logo: ''
     date_start: 2012-09-01
     date_end: 2013-11-15
