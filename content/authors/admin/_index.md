@@ -83,28 +83,43 @@ education:
       - Mathematical Modeling in the Life Sciences
       - Methods of Scientific Computing
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Summer Research Intern
+    company_name: IBM TJ Watson Research Center
+    company_url: https://research.ibm.com/labs/yorktown-heights
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-05-25
+    date_end: 2020-08-14
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Developed queuing model for allocation of cloud computing resources where user agents choose from multiple Virtual Machine (VM) types.
+      - Analyzed mathematical models for multiple class VM environment where customers prioritize fastest time to completion.
+      - Presented results to IBM research team.
+  - position: Business Analysit
+    company_name: Hewlett Packard Enterprise
+    company_url: https://www.hpe.com/us/en/home.html
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-01-01
+    date_end: 2016-08-05
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Elicited requirements for updates to Wisconsin Immunization Registry (WIR) web application.
+      - Engaged in Quality Assurance and functionality testing for WIR application updates.
+      - Documented procedures for testing standardization for barcode vaccine entry and data exchange mass import workflows.
+      - Troubleshooted issues reported by end users, supporting the WIR Help Desk as Level 2 support.
+      - Delivered solutions to user reported issues requiring application updates.
+- position: Technical Services Analyst - HIM/Identity
+    company_name: Epic Systems Corporation
+    company_url: https://www.epic.com/
+    company_logo: ''
+    date_start: 2012-09-01
+    date_end: 2013-11-15
+    summary: |
+      Responsibilities include:
+      - Investigated software issues reported by client IT teams.
+      - Identified solutions to reported issues, arranged for delivery of resolutions requiring software updates.
+      - Facilitated weekly calls with client IT teams to triage open issues list and keep clients informed of open issues investigation.
+      - Developed wrappers for backwards compatibility of Release of Information module print groups in future software releases.
+      - Configured clinician profiles for accessing sensitive patient data to ensure proper access and auditing.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
