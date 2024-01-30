@@ -165,7 +165,7 @@ skills:
          description: ''
          # percent: 100
          icon: cat
-       - name: Kubernetes
+     - name: Kubernetes
          description: ''
          # percent: 80
          icon: camera
