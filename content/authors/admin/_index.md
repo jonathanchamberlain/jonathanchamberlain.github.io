@@ -153,6 +153,36 @@ skills:
         description: ''
         # percent: 40
         icon: circle-stack
+  - name: Programming Languages
+    items:
+      - name: C++
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: HTML
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: Javascript
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: Mathematica
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: MATLAB
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: Python
+        description: ''
+        # percent: 100
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        # percent: 40
+        icon: circle-stack
 
 # languages:
 #  - name: English
