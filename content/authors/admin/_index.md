@@ -184,7 +184,7 @@ skills:
         # percent: 40
         icon: circle-stack
       - name: Wireshark
-        description:''
+        description: ''
         # percent: 100
         icon: code-bracket
   - name: Processes
