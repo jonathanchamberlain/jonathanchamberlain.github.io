@@ -100,7 +100,7 @@ work:
     company_logo: ''
     date_start: 2014-01-01
     date_end: 2016-08-05
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Elicited requirements for updates to Wisconsin Immunization Registry (WIR) web application.
       - Engaged in Quality Assurance and functionality testing for WIR application updates.
@@ -113,7 +113,7 @@ work:
     company_logo: ''
     date_start: 2012-09-01
     date_end: 2013-11-15
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Investigated software issues reported by client IT teams.
       - Identified solutions to reported issues, arranged for delivery of resolutions requiring software updates.
