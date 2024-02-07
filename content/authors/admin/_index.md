@@ -148,17 +148,17 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: python
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
   - name: Software
     items:
       - name: Debian-based Linux
         description: ''
         percent: 80
-        icon: microchip
+        icon: cloud
       - name: Docker
         description: ''
         percent: 60
@@ -170,19 +170,19 @@ skills:
       - name: Simulink
         description: ''
         percent: 60
-        icon: laptop-code
+        icon: cloud
       - name: Taiga
         description: ''
         percent: 40
-        icon: window-maximize
+        icon: cloud
       - name: VirtualBox
         description: ''
         percent: 40
-        icon: computer
+        icon: cloud
       - name: Windows
         description: ''
         percent: 100
-        icon: laptop-code
+        icon: cloud
       - name: Wireshark
         description: ''
         percent: 40
@@ -192,19 +192,19 @@ skills:
       - name: Agile (Scrum)
         description: ''
         percent: 60
-        icon: arrows-split-up-and-left
+        icon: magnifying-glass
       - name: Project Management
         description: ''
         percent: 80
-        icon: diagram-project
+        icon: magnifying-glass
       - name: QA Testing
         description: ''
         percent: 100
-        icon: code-compare
+        icon: magnifying-glass
       - name: Requirements Elicitation
         description: ''
         percent: 100
-        icon: circle-info
+        icon: magnifying-glass
       - name: Technical Troubleshooting
         description: ''
         percent: 100
