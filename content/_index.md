@@ -5,7 +5,7 @@ type: landing
 
 # Page sections
 sections:
-  - block: biography-2
+  - block: biography
     content:
       title: I am Jonathan, a research engineer
       # Note: `username` refers to the user's folder name in `content/authors/`
