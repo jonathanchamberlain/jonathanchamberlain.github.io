@@ -127,19 +127,19 @@ skills:
     items:
       - name: C++
         description: ''
-        # percent: 80
+        # percent: 60
         icon: code-bracket
       - name: HTML
         description: ''
-        # percent: 100
+        # percent: 40
         icon: code-bracket
       - name: Javascript
         description: ''
-        # percent: 100
-        icon: code-bracket
+        # percent: 40
+        icon: js
       - name: Mathematica
         description: ''
-        # percent: 100
+        # percent: 80
         icon: code-bracket
       - name: MATLAB
         description: ''
@@ -148,7 +148,7 @@ skills:
       - name: Python
         description: ''
         # percent: 100
-        icon: code-bracket
+        icon: python
       - name: SQL
         description: ''
         # percent: 40
@@ -158,61 +158,57 @@ skills:
       - name: Debian-based Linux
         description: ''
         # percent: 80
-        icon: code-bracket
+        icon: linux
       - name: Docker
         description: ''
-        # percent: 100
-        icon: code-bracket
+        # percent: 60
+        icon: docker
       - name: Kubernetes
         description: ''
-        # percent: 100
-        icon: code-bracket
+        # percent: 60
+        icon: cloud
       - name: Simulink
         description: ''
-        # percent: 100
+        # percent: 60
         icon: code-bracket
       - name: Taiga
         description: ''
-        # percent: 100
+        # percent: 40
         icon: code-bracket
       - name: VirtualBox
         description: ''
-        # percent: 100
-        icon: code-bracket
+        # percent: 40
+        icon: computer
       - name: Windows
         description: ''
-        # percent: 40
-        icon: circle-stack
+        # percent: 100
+        icon: windows
       - name: Wireshark
         description: ''
-        # percent: 100
-        icon: code-bracket
+        # percent: 40
+        icon: network-wired
   - name: Processes
     items:
       - name: Agile (Scrum)
         description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: Issue Prioritization
-        description: ''
-        # percent: 100
-        icon: code-bracket
+        # percent: 60
+        icon: arrows-split-up-and-left
       - name: Project Management
         description: ''
-        # percent: 100
-        icon: code-bracket
+        # percent: 80
+        icon: diagram-project
       - name: QA Testing
         description: ''
         # percent: 100
-        icon: code-bracket
+        icon: code-compare
       - name: Requirements Elicitation
         description: ''
         # percent: 100
-        icon: code-bracket
+        icon: diagram-project
       - name: Technical Troubleshooting
         description: ''
         # percent: 100
-        icon: code-bracket
+        icon: bug
 
 # languages:
 #  - name: English
