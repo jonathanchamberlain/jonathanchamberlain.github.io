@@ -158,11 +158,11 @@ skills:
       - name: Debian-based Linux
         description: ''
         percent: 80
-        icon: linux
+        icon: laptop-code
       - name: Docker
         description: ''
         percent: 60
-        icon: docker
+        icon: cloud
       - name: Kubernetes
         description: ''
         percent: 60
@@ -170,11 +170,11 @@ skills:
       - name: Simulink
         description: ''
         percent: 60
-        icon: code-bracket
+        icon: laptop-code
       - name: Taiga
         description: ''
         percent: 40
-        icon: code-bracket
+        icon: window-maximize
       - name: VirtualBox
         description: ''
         percent: 40
@@ -182,11 +182,11 @@ skills:
       - name: Windows
         description: ''
         percent: 100
-        icon: windows
+        icon: laptop-code
       - name: Wireshark
         description: ''
         percent: 40
-        icon: network-wired
+        icon: cloud
   - name: Processes
     items:
       - name: Agile (Scrum)
