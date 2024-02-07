@@ -204,11 +204,11 @@ skills:
       - name: Requirements Elicitation
         description: ''
         percent: 100
-        icon: diagram-project
+        icon: circle-info
       - name: Technical Troubleshooting
         description: ''
         percent: 100
-        icon: bug
+        icon: magnifying-glass
 
 # languages:
 #  - name: English
