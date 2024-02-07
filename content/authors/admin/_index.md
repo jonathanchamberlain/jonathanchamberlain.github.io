@@ -136,7 +136,7 @@ skills:
       - name: Javascript
         description: ''
         percent: 40
-        icon: icons/js
+        icon: code-bracket
       - name: Mathematica
         description: ''
         percent: 80
@@ -158,7 +158,7 @@ skills:
       - name: Debian-based Linux
         description: ''
         percent: 80
-        icon: laptop-code
+        icon: microchip
       - name: Docker
         description: ''
         percent: 60
