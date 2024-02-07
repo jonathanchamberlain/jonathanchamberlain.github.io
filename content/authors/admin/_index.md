@@ -136,7 +136,7 @@ skills:
       - name: Javascript
         description: ''
         percent: 40
-        icon: js
+        icon: icons/js
       - name: Mathematica
         description: ''
         percent: 80
@@ -253,13 +253,7 @@ awards:
 
 I am a PhD candidate at Boston University where I am working on my thesis related to allocation of network resources, with a focus on the economic impact of user agent behavior in dynamic enviornments on priority assignment and scheduling of jobs.  
 
-My research interests include:
-
-- Operations Research
-- Game Theory
-- Queuing Theory
-- Cloud Computing
-- Network Security
+My research interests include: Operations Research, Game Theory, Queuing Theory, Cloud Computing, and Network Security.
 
 My interest in these areas in general, and the economics of communications systems in specific, stems from a desire to leverage resource sharing to improve access to communications networks for all. This especially holds in the internet space, where wireless connectivity is an essential pillar for expansion of high speed internet services.
 
