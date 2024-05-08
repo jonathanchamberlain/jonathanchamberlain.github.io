@@ -42,12 +42,15 @@ sections:
         padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: 'I am a PhD candidate engaging in research on the economics of cloud computing and cognitive radio networks'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        
+        My thesis research focuses on the allocation of network resources, particularly the economic impact of user agent behavior in dynamic enviornments on priority assignment and scheduling of jobs. My interest in these areas in general, and the economics of communications systems in specific, stems from a desire to leverage resource sharing to improve access to communications networks for all. This especially holds in the internet space, where wireless connectivity is an essential pillar for expansion of high speed internet services.
+        
+        In addition to my published works, during my graduate student career I have been involved with Boston University’s Student Association of Graduate Engineers (SAGE) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused University initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the 10th BU CISE Graduate Student Workshop.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        **Research Focuses:** Operations Research, Game Theory, Queuing Theory, Cloud Computing, and Network Security.
     design:
       columns: '1'
   - block: collection

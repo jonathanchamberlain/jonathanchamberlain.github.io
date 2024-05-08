@@ -126,7 +126,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Skills
+  - name: Programming
     items:
       - name: C++
         description: ''
@@ -144,7 +144,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Software Skills
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -168,7 +168,7 @@ skills:
         description: ''
         percent: 60
         icon: devicon/windows11-plain
-  - name: Process Skills
+  - name: Process
     color: '#00e0f0'
     color_border: '#14e8ff'
     items:
