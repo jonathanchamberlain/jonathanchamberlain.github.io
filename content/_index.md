@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: Depositphotos_17624521_XL.jpg
           filters:
             brightness: 0.4
           size: cover
@@ -25,13 +25,13 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "15"
+        - statistic: "7"
           description: |
             Publications
-        - statistic: "1,000+"
+        - statistic: "15"
           description: |
             Citations
-        - statistic: "78"
+        - statistic: "3"
           description: |
             h-index
     design:
