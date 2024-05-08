@@ -5,7 +5,7 @@ type: landing
 
 # Page sections
 sections:
-  - block: collection
+  - block: resume-projects
     content:
       title: Selected Projects
       text: These are a selection of the academic projects I have been involved with as part of my graduate studies.
@@ -27,6 +27,5 @@ sections:
     design:
       # Section spacing
       columns: 1
-      view: showcase
-      flip_alt_rows: true
+      view: card
 ---
