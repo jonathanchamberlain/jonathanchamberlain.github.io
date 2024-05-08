@@ -6,5 +6,9 @@ authors:
 date: '2020-03-01'
 publishDate: '2024-05-08T16:03:01.714929Z'
 publication_types:
-- manuscript
+- speech
+genre:
+- conference micro-talk
+event:
+- 2020 Open Cloud Workshop
 ---
