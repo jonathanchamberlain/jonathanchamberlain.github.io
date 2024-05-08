@@ -7,8 +7,7 @@ authors:
 - David Starobinski
 date: '2021-01-01'
 publishDate: '2024-05-08T16:03:01.695014Z'
-publication_types:
-- article-journal
+publication_types: ['article-journal']
 publication: '*European Journal of Operational Research*'
 doi: https://doi.org/10.1016/j.ejor.2020.12.044
 abstract: "Consider an M/G/1 queuing system that supports advance reservations. In
