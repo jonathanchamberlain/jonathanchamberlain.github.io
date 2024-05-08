@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Jonathan Chamberlain
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jonathan
+last_name: Chamberlain
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,105 +20,158 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate and Graduate Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Boston University Laboratory of Networking and Information Systems
+    url: https://sites.bu.edu/nislab/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'jonacham@jonathanchamberlain.phd'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jonathanchamberlain
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jonathandanielchamberlain/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=tznM8r4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-7029-2836
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Engineering
+    institution: Boston University College of Engineering
+    date_start: 2019-09-01
+    date_end: 2024-09-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on _Game Theoretic Analyses of Resource Allocation in 5G/NextG Radio Access Networks_. Supervised by [Prof David Starobinski](https://people.bu.edu/staro/). Presented papers at 2 IEEE conferences with additional contributions published in 2 Operations Research Letters papers.
+      
+      GPA: 3.85/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Advanced Computer Networking
+      - Advanced Optimization Theory and Methods
+      - Cloud Computing
+      - IoT Security
+  - area: MS Systems Engineering
+    institution: Boston University College of Engineering
+    date_start: 2016-09-01
+    date_end: 2019-05-19
     summary: |
-      GPA: 3.4/4.0
-      
+      Thesis on _Strategic behavior and revenue management of cloud services with reservation-based preemption of customer instances_. Supervised by Prof. Starobinski. Contributions extended in subsequent European Journal of Operations Research article.
+
+      GPA: 3.63/4.0
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer Communication Networks
+      - Dynamic Systems Theory
+      - Network Security
+      - Networking the Physical World
+    button:
+      text: 'Read Thesis'
+      url: 'https://open.bu.edu/handle/2144/36027'
+  - area: BA Mathematics with Distinction
+    institution: Boston University College of Arts and Sciences
+    date_start: 2008-09-01
+    date_end: 2012-05-20
+    summary: |
+      GPA: 3.71/4.0
+      Graduated Magna Cum Laude
+      Awarded Robert E Bruce Price for Excellence in Mathematics from Department of Mathematics
+      Completed College of Arts and Sciences Honors Program 
+     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Summer Research Intern
+    company_name: IBM TJ Watson Research Center 
+    company_url: https://research.ibm.com/labs/yorktown-heights
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-05-01
+    date_end: 2020-08-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Developed queuing model for allocation of resources where user agents choose from multiple Virtual Machine (VM) types.
+      - Analyzed mathematical models for multiple class VM environment where customers prioritize fastest time to completion.
+      - Presented results to IBM research team
+  - position: Business Analyst 
+    company_name: Hewlett Packard Enterprise
+    company_url: https://www.hpe.com/us/en/home.html
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-01-01
+    date_end: 2016-08-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Elicited requirements for updates to Wisconsin Immunization Registry (WIR) web application.
+      - Engaged in Quality Assurance and functionality testing for WIR application updates.
+      - Documented procedures for testing standardization for barcode vaccine entry and data exchange mass import workflows.
+      - Troubleshooted issues reported by end users, supporting the WIR Help Desk as Level 2 support.
+      - Delivered solutions to user reported issues requiring application updates.
+  - position: Technical Services Analyst - HIM/Identity
+    company_name: Epic Systems Corporation
+    company_url: https://www.epic.com/
+    company_logo: ''
+    date_start: 2012-09-01
+    date_end: 2013-11-05
+    summary: |
+      Responsibilities include:
+      - nvestigated software issues reported by client IT teams.
+      - dentified solutions to reported issues, arranged for delivery of resolutions requiring software updates.
+      - Facilitated weekly calls with client IT teams to triage open issues list and keep clients informed of open issues investigation.
+      - Developed wrappers for backwards compatibility of Release of Information module print groups in future software releases.
+      - Configured clinician profiles for accessing sensitive patient data to ensure proper access and auditing.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Skills
     items:
+      - name: C++
+        description: ''
+        percent: 40
+        icon: cplusplus
+      - name: MATLAB
+        description: ''
+        percent: 80
+        icon: matlab
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+        icon: python
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
+  - name: Software Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Docker
+        description: ''
+        percent: 40
+        icon: docker
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: linux
+      - name: Kubernetes
+        description: ''
+        percent: 80
+        icon: kubernetes
+      - name: Open Shift
+        description: ''
+        percent: 40
+        icon: redhat
+      - name: Simulink
+        description: ''
+        percent: 40
+        icon: docker
+      - name: Windows
+        description: ''
+        percent: 60
+        icon: windows11
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -139,39 +192,19 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: French
     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#  - title: 
+#    url: 
+#    date: 
+#    awarder: 
+#    icon: 
+#    summary: |
+#      
 ---
