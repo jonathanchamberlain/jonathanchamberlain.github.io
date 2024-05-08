@@ -131,11 +131,11 @@ skills:
       - name: C++
         description: ''
         percent: 40
-        icon: assets/media/icons/cplusplus-plain
+        icon: devicon/cplusplus
       - name: MATLAB
         description: ''
         percent: 80
-        icon: assets/media/icons/matlab-plain
+        icon: devicon/matlab-plain
       - name: Python
         description: ''
         percent: 80
