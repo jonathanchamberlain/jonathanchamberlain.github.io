@@ -125,69 +125,69 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Programming Skills
-    items:
-      - name: C++
-        description: ''
-        percent: 40
-        icon: cplusplus
-      - name: MATLAB
-        description: ''
-        percent: 80
-        icon: matlab
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Software Skills
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Docker
-        description: ''
-        percent: 40
-        icon: docker
-      - name: Linux
-        description: ''
-        percent: 80
-        icon: linux
-      - name: Kubernetes
-        description: ''
-        percent: 80
-        icon: kubernetes
-      - name: Open Shift
-        description: ''
-        percent: 40
-        icon: redhat
-      - name: Simulink
-        description: ''
-        percent: 40
-        icon: docker
-      - name: Windows
-        description: ''
-        percent: 60
-        icon: windows11
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+#  - name: Programming Skills
+#    items:
+#      - name: C++
+#        description: ''
+#        percent: 40
+#        icon: cplusplus
+#      - name: MATLAB
+#        description: ''
+#        percent: 80
+#        icon: matlab
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: python
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
+#  - name: Software Skills
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Docker
+#        description: ''
+#        percent: 40
+#        icon: docker
+#      - name: Linux
+#        description: ''
+#        percent: 80
+#        icon: linux
+#      - name: Kubernetes
+#        description: ''
+#        percent: 80
+#        icon: kubernetes
+#      - name: Open Shift
+#        description: ''
+#        percent: 40
+#        icon: redhat
+#      - name: Simulink
+#        description: ''
+#        percent: 40
+#        icon: docker
+#      - name: Windows
+#        description: ''
+#        percent: 60
+#        icon: windows11
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
 languages:
   - name: English
