@@ -5,7 +5,7 @@ type: landing
 
 # Page sections
 sections:
-  - block: resume-projects
+  - block: collection
     content:
       title: Selected Projects
       text: These are a selection of the academic projects I have been involved with as part of my graduate studies.
