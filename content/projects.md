@@ -27,6 +27,6 @@ sections:
     design:
       # Section spacing
       columns: 1
-      spacing: '50rem'
+      spacing: '25rem'
       view: card
 ---
