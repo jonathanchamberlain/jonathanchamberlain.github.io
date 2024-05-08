@@ -131,11 +131,11 @@ skills:
       - name: C++
         description: ''
         percent: 40
-        icon: cplusplus-plain
+        icon: assets/media/icons/cplusplus-plain
       - name: MATLAB
         description: ''
         percent: 80
-        icon: matlab-plain
+        icon: assets/media/icons/matlab-plain
       - name: Python
         description: ''
         percent: 80
@@ -159,7 +159,7 @@ skills:
       - name: Kubernetes
         description: ''
         percent: 80
-        icon: devicon/kubernetes-plain
+        icon: assets/media/icons/kubernetes-plain
       - name: Open Shift
         description: ''
         percent: 40
