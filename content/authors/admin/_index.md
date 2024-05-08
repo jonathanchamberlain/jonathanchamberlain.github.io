@@ -131,11 +131,11 @@ skills:
       - name: C++
         description: ''
         percent: 40
-        icon: devicon-cplusplus-plain
+        icon: devicon/cplusplus-plain
       - name: MATLAB
         description: ''
         percent: 80
-        icon: devicon-matlab-plain
+        icon: devicon/matlab-plain
       - name: Python
         description: ''
         percent: 80
@@ -151,23 +151,23 @@ skills:
       - name: Docker
         description: ''
         percent: 40
-        icon: devicon-docker-plain
+        icon: devicon/docker-plain
       - name: Linux
         description: ''
         percent: 80
-        icon: devicon-linux-plain
+        icon: devicon/linux-plain
       - name: Kubernetes
         description: ''
         percent: 80
-        icon: devicon-kubernetes-plain
+        icon: devicon/kubernetes-plain
       - name: Open Shift
         description: ''
         percent: 40
-        icon: devicon-redhat-plain
+        icon: devicon/redhat-plain
       - name: Windows
         description: ''
         percent: 60
-        icon: devicon-windows11-plain
+        icon: devicon/windows11-plain
   - name: Process Skills
     color: '#00e0f0'
     color_border: '#14e8ff'
@@ -187,7 +187,7 @@ skills:
       - name: Technical Troubleshooting
         description: ''
         percent: 80
-        icon: devicon-stackoverflow-plain
+        icon: devicon/stackoverflow-plain
 
 languages:
   - name: English
