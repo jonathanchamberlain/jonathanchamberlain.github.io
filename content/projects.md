@@ -3,14 +3,6 @@ title: 'Projects'
 date: 2023-10-24
 type: landing
 
-design:
-  # Section spacing
-  spacing: '20rem'
-  view: showcase
-  flip_alt_rows: true
-  
-
-
 # Page sections
 sections:
   - block: resume-projects
@@ -31,4 +23,10 @@ sections:
           description: This project investigates the impact of advance reservation of resources by users in cloud systems. I formulated a queuing game model to describe the incentive to pay for compute resource reservations in advance, and evaluated the game across varying preemption scheduling policies based on reservation priority. Using SimPy, I constructed a simulation tool to model user agent purchasing decisions, leveraging techniques to evaluate queue statistics for tagged ghost user agents to determine system behavior without impacting the results.
           image: icons/network-wired-solid
           url: https://sites.bu.edu/nislab/strategic-management-of-advance-reservations/
+    
+    design:
+      # Section spacing
+      columns: 1
+      view: showcase
+      flip_alt_rows: true
 ---
