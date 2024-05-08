@@ -10,5 +10,5 @@ publication_types:
 genre:
 - conference micro-talk
 event:
-- 2020 Open Cloud Workshop
+- '2020 Open Cloud Workshop'
 ---
