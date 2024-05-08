@@ -6,5 +6,7 @@ authors:
 date: '2019-01-01'
 publishDate: '2024-05-08T16:03:01.708891Z'
 publication_types:
-- report
+- thesis
+genre:
+- Master's Thesis
 ---
