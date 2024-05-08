@@ -5,9 +5,11 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
-  columns: 1
+  spacing: '20rem'
+  view: showcase
+  flip_alt_rows: true
   
+
 
 # Page sections
 sections:
