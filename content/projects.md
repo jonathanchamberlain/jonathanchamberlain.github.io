@@ -13,15 +13,15 @@ sections:
       # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
         - title: Facilitating Novel Modalities for Spectrum Sharing between Earth-Observing Microwave Radiometers and Commercial Users
-          description: Working with collaborators at *Ohio State's ElectroScience Labratory*, this interdisciplinary project seeks to establish sharing frameworks in the high band (beyond 6 GHz) portions of wireless spectrum. I have performed statistical analyses of radiometer trace data to determine available transmission windows for commercial use, establishing a joint queuing- and game-theoretic model covering a variety of scenarios for customer behavior and sharing frameworks.
+          description: Working with collaborators at *Ohio State's ElectroScience Labratory*, this interdisciplinary project seeks to establish sharing frameworks in the high band (beyond 6 GHz) portions of wireless spectrum between passive radiometers and commerical users.
           image: Depositphotos_51022571_XL.jpg
           url: https://www.nsf.gov/awardsearch/showAward.do?AwardNumber=2229104
         - title: The Interplay of Markets and Security in 5G Shared Spectrum Services 
-          description:  This project aims to address the intertwiining of economics and security frameworks in areas of spectrum where flexible sharing is possible, such as the mid-band 3.5 GHz portion governed by the *Citizens Broadband Radio Service (CBRS)*. I established a joint queuing- and game-theoreitc based model for the priority upgrade purchase problem in cognitive radio settings, and developed tools using Python's SimPy package to simulate user agent behavior under both a two tier priority system and CBRS-type systems with incumbent traffic present. I also have supervised undergradate students' work perofrming radio traffic monitoring experiments, as well as had the opportunity to present my work directly to the CTO team of a CBRS Spectrum Access Administrator.
+          description:  This project aims to address the intertwiining of economics and security frameworks in areas of spectrum where flexible sharing is possible, such as the mid-band 3.5 GHz portion governed by the *Citizens Broadband Radio Service (CBRS)*. I also have had the opportunity to present my work directly to the CTO team of a CBRS Spectrum Access Administrator.
           image: Depositphotos_358256336_XL.jpg
           url: https://sites.bu.edu/nislab/5G-shared-spectrum/
         - title: Strategic Management of Advance Reservations in Cloud and Network Services
-          description: This project investigates the impact of advance reservation of resources by users in cloud systems. I formulated a queuing game model to describe the incentive to pay for compute resource reservations in advance, and evaluated the game across varying preemption scheduling policies based on reservation priority. Using SimPy, I constructed a simulation tool to model user agent purchasing decisions, leveraging techniques to evaluate queue statistics for tagged ghost user agents to determine system behavior without impacting the results.
+          description: This project investigates the impact of advance reservation on cloud infrastructure, particularly looking at customer behavior in the face of various provider pricing and scheduling schemes. 
           image: Depositphotos_79027836_XL.jpg
           url: https://sites.bu.edu/nislab/strategic-management-of-advance-reservations/
     
