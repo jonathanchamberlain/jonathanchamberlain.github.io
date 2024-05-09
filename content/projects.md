@@ -3,6 +3,9 @@ title: 'Projects'
 date: 2023-10-24
 type: landing
 
+design:
+  spacing: '15rem'
+
 # Page sections
 sections:
   - block: resume-projects
@@ -24,9 +27,4 @@ sections:
           image: icons/network-wired-solid
           url: https://sites.bu.edu/nislab/strategic-management-of-advance-reservations/
     
-    design:
-      # Section spacing
-      columns: 1
-      spacing: '25rem'
-      view: card
 ---
