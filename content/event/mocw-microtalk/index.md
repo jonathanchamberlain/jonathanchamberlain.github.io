@@ -7,7 +7,7 @@ address:
   region: CA
   street: 775 Commonwealth Avenue
 all_day: false
-authors: [admin, "Shi, Zhenpeng"]
+authors: [admin, Zhenpeng Shi]
 date: "2020-03-02T09:00:00Z"
 date_end: "2020-03-03T17:00:00Z"
 event: 2020 Open Cloud Workshop
