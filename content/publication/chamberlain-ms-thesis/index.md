@@ -23,15 +23,15 @@ tags:
 featured: true
 
 # links:
-# - name: ""
-url: https://open.bu.edu/handle/2144/36027?show=full
-url_pdf: https://open.bu.edu/ds2/stream/?#/documents/341503/page/1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: https://sites.bu.edu/nislab/strategic-management-of-advance-reservations/
-url_slides: ''
-url_source: ''
-url_video: ''
+- name: OpenBU
+  url: https://open.bu.edu/handle/2144/36027?show=full
+  url_pdf: https://open.bu.edu/ds2/stream/?#/documents/341503/page/1
+  url_code: ''
+  url_dataset: ''
+  url_poster: ''
+  url_project: https://sites.bu.edu/nislab/strategic-management-of-advance-reservations/
+  url_slides: ''
+  url_source: ''
+  url_video: ''
 
 ---
