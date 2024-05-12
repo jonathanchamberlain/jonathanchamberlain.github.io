@@ -34,9 +34,9 @@ featured: true
 #   url: ""
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: https://github.com/nislab/passive-radiometer-trace-data
 url_poster: ''
-url_project: ''
+url_project: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229104&HistoricalAwards=false
 url_slides: ''
 url_source: ''
 url_video: ''
