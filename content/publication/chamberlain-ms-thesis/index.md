@@ -25,7 +25,7 @@ tags:
 - Game Theory
 featured: true
 
-# links:
+links:
 - name: URL
   url: https://open.bu.edu/handle/2144/36027?show=full
 url_pdf: https://open.bu.edu/ds2/stream/?#/documents/341503/page/1
