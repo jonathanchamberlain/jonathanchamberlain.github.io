@@ -23,8 +23,8 @@ tags:
 featured: true
 
 # links:
-- name: OpenBU
-  url: https://open.bu.edu/handle/2144/36027?show=full
+#- name: OpenBU
+#  url: https://open.bu.edu/handle/2144/36027?show=full
 url_pdf: https://open.bu.edu/ds2/stream/?#/documents/341503/page/1
 url_code: ''
 url_dataset: ''
