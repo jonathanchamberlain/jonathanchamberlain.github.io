@@ -3,7 +3,7 @@ title: "Strategic Behavior and Revenue Management of Cloud Services with Reserva
 authors:
 - Jonathan Chamberlain
 date: '2019-06-03T01:05:22Z'
-doi: https://open.bu.edu/handle/2144/36027
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-08T16:03:01.708891Z'
@@ -26,8 +26,8 @@ tags:
 featured: true
 
 # links:
-#- name: OpenBU
-#  url: https://open.bu.edu/handle/2144/36027?show=full
+- name: URL
+  url: https://open.bu.edu/handle/2144/36027?show=full
 url_pdf: https://open.bu.edu/ds2/stream/?#/documents/341503/page/1
 url_code: ''
 url_dataset: ''
