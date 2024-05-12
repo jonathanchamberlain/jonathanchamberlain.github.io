@@ -4,11 +4,18 @@ authors:
 - Jonathan Chamberlain
 - David Starobinski
 date: '2021-01-01'
-publishDate: '2024-05-08T16:03:01.687857Z'
-publication_types:
-- article-journal
-publication: '*Operations Research Letters*'
 doi: https://doi.org/10.1016/j.orl.2020.12.011
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-05-08T16:03:01.687857Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
+publication: '*Operations Research Letters*'
+publication_short: '*OR Letters*'
+
 abstract: Consider a two-class unobservable priority queue, with Poisson arrivals,
   generally distributed service, and strategic customers. Customers are charged a
   fee when joining the premium class. We analyze the maximum revenue achievable under
@@ -21,7 +28,18 @@ tags:
 - Queuing theory
 - Preemption
 - Pricing
+featured: false
 links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0167637720301991
+#- name: URL
+#  url: https://www.sciencedirect.com/science/article/pii/S0167637720301991
+url_pdf: https://par.nsf.gov/servlets/purl/10282647
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: https://sites.bu.edu/nislab/5G-shared-spectrum/
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
+
+
