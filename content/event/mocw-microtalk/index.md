@@ -1,42 +1,31 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: A microtalk given at the 2020 Open Cloud Workshop about the then-ongoing work being done within the NISLAB by myself and collegue Zhenpeng Shi on the subject of shared services in cloud systems, providing a breif overview to my work on Advance Reservation and Zhenpeng's work on shared/buy-in systems, with a focus on the impacts on the BU hosted Shared Compute Cluster.  
 address:
-  city: Stanford
+  city: Boston
   country: United States
-  postcode: "94305"
+  postcode: "02215"
   region: CA
-  street: 450 Serra Mall
+  street: 775 Commonwealth Avenue
 all_day: false
-authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+authors: [admin, "Shi, Zhenpeng"]
+date: "2020-03-02T09:00:00Z"
+date_end: "2020-03-03T17:00:00Z"
+event: 2020 Open Cloud Workshop
+event_url: https://massopen.cloud/events/2020-open-cloud-workshop/
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-location: Wowchemy HQ
+location: Boston University Metcalf Ballroom
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: An Open Cloud Workshop Micro-talk on the economics of shared cloud systems.
 tags: []
-title: Example Talk
+title: Strategic Management Of Shared Cloud Services
 url_code: ""
 url_pdf: ""
-url_slides: "https://slideshare.net"
-url_video: ""
+url_slides: "https://massopen.cloud/wp-content/uploads/2020/04/Chamberlain-and-Shi-slides.pdf"
+url_video: "https://www.youtube.com/watch?v=WilP7R9CjUg"
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

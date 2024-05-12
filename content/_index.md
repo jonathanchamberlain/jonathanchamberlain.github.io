@@ -58,7 +58,7 @@ sections:
           - [_Prof. Ari Trachtenberg_](https://people.bu.edu/trachten/), Boston University: NISLAB co-Principal Investigator  
           - [_Prof. Zaoxing "Alan" Liu_](https://zaoxing.github.io/), University of Maryland: Computer Science professor, researcher in large-scale networked systems and security   
           - [_Prof. Joel T Johnson_](https://ece.osu.edu/johnson-joel), The Ohio State University: ElectroScience Labratory affilaite, researcher in remote sensing and microwave radiometry  
-          - [_Prof. Oran Krieger_](https://okrieg.github.io/), Boston University and Mass Open Cloud Alliance: researcher focused on open cloud technologies, professor of the Cloud Computing course
+          - [_Prof. Oran Krieger_](https://okrieg.github.io/), Boston University and Mass Open Cloud Alliance: researcher focused on open cloud technologies, professor of the Cloud Computing course at Boston University
           - [_Dr. Asser Tantawi_](https://www.linkedin.com/in/assertantawi/), IBM Research: researcher in cloud computing technology, supervisor during summer internship  
           - [_Dr. Zhenpeng Shi_](https://www.linkedin.com/in/zpshi12/), Huawei: BU NISLAB Alum and collaborator on shared buy-in economics  
           - [_Dr. Sahil Tikale_](https://www.linkedin.com/in/sahiltikale/), Nokia Bell Labs: BU Alum researching decentralized systems at cloud scale, lead mentor on the Bare Metal Marketplace project for Prof. Kreiger's Cloud Computing course
