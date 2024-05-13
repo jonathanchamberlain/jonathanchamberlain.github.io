@@ -24,7 +24,7 @@ summary: A seminar talk regarding ongoing work related to K8s autoscaling.
 tags: [Operations Research, Kubernetes, Security, Autoscaling]
 title: Economic Denial of Sustainability Attacks on Kubernetes
 url_code: ""
-url_pdf: https://docs.google.com/presentation/d/1P_qyFGyZaDK_AwRR4Phrf6O6ZWRBuSRS/edit?usp=sharing&ouid=113710107438499963630&rtpof=true&sd=true
+url_pdf: ''
 url_slides: ''
 url_video: ""
 ---
