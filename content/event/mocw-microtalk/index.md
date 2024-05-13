@@ -14,14 +14,14 @@ event: 2020 Open Cloud Workshop
 event_url: https://massopen.cloud/events/2020-open-cloud-workshop/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: ''
+  focal_point: ''
 location: Boston University Metcalf Ballroom
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 summary: An Open Cloud Workshop Micro-talk on the economics of shared cloud systems.
-tags: []
+tags: [Economics, Operations Research, Game Theory, Cloud Computing]
 title: Strategic Management Of Shared Cloud Services
 url_code: ""
 url_pdf: ""

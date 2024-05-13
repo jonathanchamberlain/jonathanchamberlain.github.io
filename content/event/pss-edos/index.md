@@ -14,14 +14,14 @@ event: Practical Security Seminar
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: ''
+  focal_point: ''
 location: BU College of Engineering Photonics Center
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: edos.pdf
 summary: A seminar talk regarding ongoing work related to K8s autoscaling.
-tags: []
+tags: [Operations Research, Kubernetes, Security, Autoscaling]
 title: Economic Denial of Sustainability Attacks on Kubernetes
 url_code: ""
 url_pdf: ""
