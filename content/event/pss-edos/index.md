@@ -19,13 +19,13 @@ image:
 location: BU College of Engineering Photonics Center
 math: true
 publishDate: "2017-01-01T00:00:00Z"
-slides: edos.pdf
+slides: ''
 summary: A seminar talk regarding ongoing work related to K8s autoscaling.
 tags: [Operations Research, Kubernetes, Security, Autoscaling]
 title: Economic Denial of Sustainability Attacks on Kubernetes
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: edos.pdf
+url_slides: ''
 url_video: ""
 ---
 
