@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: **Prof. David Starobinski**
+  caption: 'Image credit: **Prof. David Starobinski**'
   focal_point: ''
   preview_only: false
 ---
