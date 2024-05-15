@@ -25,10 +25,10 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "5"
+        - statistic: "6"
           description: |
             Publications
-        - statistic: "15"
+        - statistic: "16"
           description: |
             Citations
         - statistic: "3"
@@ -52,19 +52,6 @@ sections:
 
         **Research Focuses:** 
         Operations Research, Game Theory, Queuing Theory, Cloud Computing, and Network Security.
-
-        **Collaborators:** 
-          - [_Prof. David Starobinski_](https://people.bu.edu/staro/), Boston University: Thesis advisor, NISLAB co-Principal Investigator  
-          - [_Prof. Ari Trachtenberg_](https://people.bu.edu/trachten/), Boston University: NISLAB co-Principal Investigator  
-          - [_Prof. Zaoxing "Alan" Liu_](https://zaoxing.github.io/), University of Maryland: Computer Science professor, researcher in large-scale networked systems and security   
-          - [_Prof. Joel T Johnson_](https://ece.osu.edu/johnson-joel), The Ohio State University: ElectroScience Labratory affilaite, researcher in remote sensing and microwave radiometry  
-          - [_Prof. Oran Krieger_](https://okrieg.github.io/), Boston University and Mass Open Cloud Alliance: researcher focused on open cloud technologies, professor of the Cloud Computing course at Boston University
-          - [_Dr. Asser Tantawi_](https://www.linkedin.com/in/assertantawi/), IBM Research: researcher in cloud computing technology, supervisor during summer internship  
-          - [_Dr. Zhenpeng Shi_](https://www.linkedin.com/in/zpshi12/), Huawei: BU NISLAB Alum and collaborator on shared buy-in economics  
-          - [_Dr. Sahil Tikale_](https://www.linkedin.com/in/sahiltikale/), Nokia Bell Labs: BU Alum researching decentralized systems at cloud scale, lead mentor on the Bare Metal Marketplace project for Prof. Kreiger's Cloud Computing course
-          - [_Zeying Zhu_](https://zzylol.github.io/), University of Maryland: PhD Candidate supervised by Prof. Liu, research focused on performance and security improvements to monitoring tools such as Prometheus   
-          - Nicholas Brendle, The Ohio State University: Graduate student supervised by Prof. Johnson  
-          - Jilin Zheng, Boston University: NISLAB Undergraduate Research Assistant, working on problems related to scaling in Kubernetes   
     design:
       columns: '1'
   - block: collection

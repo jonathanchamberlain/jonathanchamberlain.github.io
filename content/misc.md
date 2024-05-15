@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Miscellaneous'
 date: 2023-10-24
 type: landing
 
