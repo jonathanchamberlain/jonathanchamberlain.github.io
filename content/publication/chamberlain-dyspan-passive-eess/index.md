@@ -40,4 +40,11 @@ url_project: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229104&Historical
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: **Prof. David Starobinski**
+  focal_point: ''
+  preview_only: false
 ---
