@@ -4,7 +4,7 @@ date: 2023-10-24
 pager: false
 ---
 
-# I have had the opportunity to work with many wonderful collaborators over the years on various projects, including the following individuals:'
+**I have had the opportunity to work with many wonderful collaborators over the years on various projects, including the following individuals:**
       
 | Name  |  Affiliation | Description |
 |---|---|---|
