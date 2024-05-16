@@ -204,7 +204,7 @@ awards:
     url: https://dyspan2024.ieee-dyspan.org/
     date: '2024-05-15'
     awarder: IEEE Dyspan
-    icon: academicicons/ieee
+    icon: aacademicons/ieee
     summary: |
       Awarded for work "Spectrum Sharing between Earth Exploration Satellite and Commercial Services: An Economic Feasibility Analysis", presented at the 2024 International Symposium on Dynamic Spectrum Access Networks (DySpan), a conference of the IEEE Communications Society. The paper was joint work with my thesis advisor Prof. David Starobinski (Boston University NISLAB) and Prof. Joel Johnson (Ohio State ElectroScience Labratory)
 ---
