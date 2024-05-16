@@ -80,9 +80,10 @@ education:
     date_end: 2012-05-20
     summary: |
       GPA: 3.71/4.0
-      Graduated Magna Cum Laude
-      Awarded Robert E Bruce Price for Excellence in Mathematics from Department of Mathematics
-      Completed College of Arts and Sciences Honors Program 
+      
+      - Graduated Magna Cum Laude
+      - Awarded Robert E Bruce Price for Excellence in Mathematics from Department of Mathematics
+      - Completed College of Arts and Sciences Honors Program 
      
 work:
   - position: Summer Research Intern
@@ -204,7 +205,7 @@ awards:
     url: https://dyspan2024.ieee-dyspan.org/
     date: '2024-05-15'
     awarder: IEEE Dyspan
-    icon: ieee
+    icon: ''
     summary: |
       Awarded for work "Spectrum Sharing between Earth Exploration Satellite and Commercial Services: An Economic Feasibility Analysis", presented at the 2024 International Symposium on Dynamic Spectrum Access Networks (DySpan), a conference of the IEEE Communications Society. The paper was joint work with my thesis advisor Prof. David Starobinski (Boston University NISLAB) and Prof. Joel Johnson (Ohio State ElectroScience Labratory)
 ---
