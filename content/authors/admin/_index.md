@@ -48,7 +48,7 @@ education:
     date_start: 2019-09-01
     date_end: 2024-09-01
     summary: |
-      Thesis on _Game Theoretic Analyses of Resource Allocation in 5G/NextG Radio Access Networks_. Supervised by [Prof David Starobinski](https://people.bu.edu/staro/). Presented papers at 2 IEEE conferences with additional contributions published in 2 Operations Research Letters papers.
+      Thesis on _Game Theoretic Analyses of Resource Allocation in 5G/NextG Radio Access Networks_. Supervised by [Prof David Starobinski](https://people.bu.edu/staro/). Presented papers at 2 IEEE conferences with one Best Paper Runner Up accolade. Additional contributions published in 2 Operations Research Letters papers.
       
       GPA: 3.85/4.0
 
@@ -205,7 +205,7 @@ awards:
     url: https://dyspan2024.ieee-dyspan.org/
     date: '2024-05-15'
     awarder: IEEE Dyspan
-    icon: ''
+    icon: ieee
     summary: |
       Awarded for work "Spectrum Sharing between Earth Exploration Satellite and Commercial Services: An Economic Feasibility Analysis", presented at the 2024 International Symposium on Dynamic Spectrum Access Networks (DySpan), a conference of the IEEE Communications Society. The paper was joint work with my thesis advisor Prof. David Starobinski (Boston University NISLAB) and Prof. Joel Johnson (Ohio State ElectroScience Labratory)
 ---
