@@ -5,7 +5,7 @@ authors:
 - Joel Johnson
 - David Starobinski
 date: '2024-05-14'
-doi: ''
+doi: https://doi.org/10.1109/DySPAN60163.2024.10632841
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-15T00:00:00.000000Z'
