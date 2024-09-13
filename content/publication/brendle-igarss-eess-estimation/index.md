@@ -6,7 +6,7 @@ authors:
 - David Starobinski
 - Jonathan Chamberlain
 date: '2024-07-07'
-doi: ''
+doi: '10.1109/IGARSS53475.2024.10640738'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-07-14T00:00:00.000000Z'
