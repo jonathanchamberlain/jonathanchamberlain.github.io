@@ -15,6 +15,6 @@ pager: false
 | [Dr. Zhenpeng Shi](https://www.linkedin.com/in/zpshi12/) | Huawei |  BU NISLAB Alum, co-researcher on shared buy-in economics |
 | [Dr. Sahil Tikale](https://www.linkedin.com/in/sahiltikale/) | Nokia Bell Labs | BU Alum researching decentralized systems at cloud scale, lead mentor on [Bare Metal Marketplace project](https://github.com/BU-CLOUD-S20/A-Bare-Metal-Marketplace) |
 | [Zeying Zhu](https://zzylol.github.io/) | University of Maryland | PhD Candidate supervised by Prof. Liu, research focused on performance and security improvements to monitoring tools such as Prometheus |
-| Nicholas Brendle | The Ohio State University | MS Student supervised by Prof. Johnson, research focused on performance of Earth Exploration Satellite Service-passive radiometers in shared spectrum enviornments |
+| Nicholas Brendle | The Ohio State University | PhD Candidate supervised by Prof. Johnson, research focused on performance of Passive Remote Sensing, particularly Earth Exploration Satellite Service-passive radiometers in shared spectrum enviornments |
 | Jilin Zheng | Boston University |  NISLAB Undergraduate Research Assistant, working on problems related to scaling in Kubernetes |
       
