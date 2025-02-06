@@ -46,9 +46,9 @@ education:
   - area: PhD Computer Engineering
     institution: Boston University College of Engineering
     date_start: 2019-09-01
-    date_end: 2025-03-01
+    date_end: 2025-05-01
     summary: |
-      Thesis on _Game Theoretic Frameworks for Spectrum Coexistence in Beyond 5G Networks_. Supervised by [Prof David Starobinski](https://people.bu.edu/staro/). Presented papers at 2 IEEE conferences with one Best Paper Runner Up accolade. Additional contributions published in 2 Operations Research Letters papers, 1 IEEE JSAC paper, and 1 invited paper (pending).
+      Thesis on _Game Theoretic Frameworks for Spectrum Coexistence in Beyond 5G Networks_. Supervised by [Prof David Starobinski](https://people.bu.edu/staro/). Presented papers at 2 IEEE conferences with one Best Paper Runner Up accolade, and co-author with significant contributions on a third upcoming IEEE conference paper. Additional contributions published in 2 Operations Research Letters papers, 1 IEEE JSAC paper, and two pending publications.
       
       GPA: 3.85/4.0
 

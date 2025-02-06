@@ -10,7 +10,7 @@ pager: false
 |---|---|---|
 | [Prof. David Starobinski](https://people.bu.edu/staro/) |  Boston University | Thesis advisor, NISLAB co-Principal Investigator  |
 | [Prof. Zaoxing "Alan" Liu](https://zaoxing.github.io/)  |  University of Maryland | Computer Science professor, researcher in large-scale networked systems and security  |
-| [Prof. Joel T Johnson](https://ece.osu.edu/johnson-joel) | The Ohio State University  | ElectroScience Labratory affiliate, researcher in remote sensing and microwave radiometry |
+| [Prof. Joel T Johnson](https://ece.osu.edu/johnson-joel) | The Ohio State University  | ElectroScience Laboratory affiliate, researcher in remote sensing and microwave radiometry |
 | [Dr. Asser Tantawi](https://www.linkedin.com/in/assertantawi/) | IBM Research |  Researcher in cloud computing technology, supervisor during my summer internship |
 | [Dr. Zhenpeng Shi](https://www.linkedin.com/in/zpshi12/) | Huawei |  BU NISLAB Alum, co-researcher on shared buy-in economics |
 | [Dr. Sahil Tikale](https://www.linkedin.com/in/sahiltikale/) | Nokia Bell Labs | BU Alum researching decentralized systems at cloud scale, lead mentor on [Bare Metal Marketplace project](https://github.com/BU-CLOUD-S20/A-Bare-Metal-Marketplace) |

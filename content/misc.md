@@ -21,7 +21,7 @@ sections:
           image: SAGE.png
           url: https://www.bu.edu/sage/
         - title: BU CISE Graduate Student Workshop
-          description: I served as a co-organizer for the 10th CGSW in January 2024, assisting in selecting the program of speakers and adjuicating the Best Speaker reward.
+          description: I served as a co-organizer for the 10th CGSW in January 2024, and the 11th CGSW in January 2025, assisting in selecting the program of speakers and adjuicating the Best Speaker reward.
           image: cise.png
           url: https://www.bu.edu/cise/cise-hosts-10th-annual-graduate-student-workshop-cgsw-10-0/
         - title: A Bare Metal Marketplace

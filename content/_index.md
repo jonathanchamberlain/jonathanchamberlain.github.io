@@ -25,10 +25,10 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "8"
+        - statistic: "9"
           description: |
             Publications
-        - statistic: "25"
+        - statistic: "27"
           description: |
             Citations
         - statistic: "3"
@@ -46,11 +46,14 @@ sections:
       subtitle: ''
       text: |-
         
-        My thesis research lies in the areas of Network Economics and Security, particularly the dynamics of spectrum sharing and leveraging the intersection of technology and economics to explore user agent behavior under varying policies. My interest in these areas stems from a desire to use technology to drive policy in an informed way to enhance resource sharing and improve access to communications networks for all, while protecting incumbent users utilizing spectrum for key scientific purposes. This especially holds in the internet space, as wireless connectivity is an essential pillar for expansion of high speed internet services, which is an absolute necessity for participating in the modern economy.  
+        My research interests lie in the intersection between Network Systems and Security, especially wireless systems; the economic impacts of Dynamic Spectrum Co-Existence, and the policy implications in making different design choices. In particular, within the internet space wireless connectivity is an essential pillar for expansion of high speed internet service and ensuring that communities are not left behind due to accidents of geography and/or topography. However, considerations of uses such as remote sensing for climatology monitoring or radio astronomy for space science research make equitable sharing a delicate balancing act. My published works include a Policy Track Runner-Up award for Best Paper at the 2024 IEEE DySpan conference for preliminary work done in concert with collaborators at the Ohio State ElectroScience Laboratory establishing the economic feasibility of such sharing for wholesale commercial markets yielding priority to mission critical Earth Exploration Satellite Service-passive radiometers. 
         
-        In addition to my published works, during my graduate student career I have been involved with Boston University’s Student Association of Graduate Engineers (SAGE) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused university initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the 10th BU CISE Graduate Student Workshop.
+        Additionally I have been working with the research team at the FROOT Lab at the University of Maryland, College Park on problems related to monitoring of cloud computing clusters in mobile networks, with an eye towards security applications. Specifically, looking at new ways to model attacks on scalable container networks where the attacker objective is to force the provider to consume resources in an excessive manner via Economic Denial of Sustainability attacks.
 
-        **Research Interests:** Operations Research, Game Theory, Queuing Theory, Decision Theory, Wireless Communications, Spectrum Allocation Policy, Passive-Active User Interactions, Cloud Computing, and Network Security.
+        In addition to my published works, during my graduate student career I have been involved with Boston University’s Student Association of Graduate Engineers (SAGE) in various executive board roles, have served on a graduate student advisory committee providing feedback for graduate student focused university initiatives and proposed policy update to the Associate Provost for Graduate Affairs, and served on the organizing committee for the 10th and 11th BU CISE Graduate Student Workshops in 2024-25.
+
+        **Research Interests:** Queuing Theory, Game Theory, Wireless Communications, Spectrum Allocation and Dynamic Spectrum Co-Existence, Passive-Active User Interactions, Wide Area Networks, Mobile Edge Computing, Scalable Networks, Systems Security, Public Policy
+        
     design:
       columns: '1'
   - block: collection
