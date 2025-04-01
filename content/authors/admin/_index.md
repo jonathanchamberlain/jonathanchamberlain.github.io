@@ -46,9 +46,9 @@ education:
   - area: PhD Computer Engineering
     institution: Boston University College of Engineering
     date_start: 2019-09-01
-    date_end: 2025-05-01
+    date_end: 2025-05-18
     summary: |
-      Thesis on _Game Theoretic Frameworks for Spectrum Coexistence in Advanced Wireless Networks_. Supervised by [Prof David Starobinski](https://people.bu.edu/staro/). Presented papers at 2 IEEE conferences with one Best Paper Runner Up accolade, and co-author with significant contributions on a third upcoming IEEE conference paper. Additional contributions published in 2 Operations Research Letters papers, 1 IEEE JSAC paper, and two pending publications.
+      Thesis on _Econcomic Frameworks for Spectrum Coexistence in Advanced Wireless Networks_. Supervised by [Prof David Starobinski](https://people.bu.edu/staro/). Presented papers at 2 IEEE conferences with one Best Paper Runner Up accolade, one accepted ACM conference paper, and co-author with significant contributions on a third upcoming IEEE conference paper. Additional contributions published in 2 Operations Research Letters papers, 1 IEEE JSAC paper, and two pending publications.
       
       GPA: 3.85/4.0
 
@@ -62,7 +62,7 @@ education:
     date_start: 2016-09-01
     date_end: 2019-05-19
     summary: |
-      Thesis on _Strategic behavior and revenue management of cloud services with reservation-based preemption of customer instances_. Supervised by Prof. Starobinski. Contributions extended in subsequent European Journal of Operations Research article.
+      Thesis on _Strategic Behavior and Revenue Management of Cloud Services with Reservation-Based Preemption of Customer Instances_. Supervised by Prof. Starobinski. Contributions extended in subsequent European Journal of Operations Research article.
 
       GPA: 3.63/4.0
 
