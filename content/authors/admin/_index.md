@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/jonathanchamberlain
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jonathandanielchamberlain/
+    url: https://www.linkedin.com/in/jonacham
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=tznM8r4AAAAJ&hl=en
   - icon: academicons/orcid
