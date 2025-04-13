@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonathan Chamberlain
+title: Dr. Jonathan Chamberlain, PhD
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate and Graduate Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
